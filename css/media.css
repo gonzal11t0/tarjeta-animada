@@ -1,0 +1,17 @@
+@media screen and (max-width:900px) {
+    .cards{
+        display: flex;
+        flex: auto auto;
+    }
+    .cards .card{
+        width:250px;
+        height:350px;
+
+    }
+    .autor img{
+        position: inherit;
+        top: auto;
+        width:100px;
+        height:100px;
+    }
+}
